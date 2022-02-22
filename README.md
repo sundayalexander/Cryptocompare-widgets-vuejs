@@ -1,7 +1,7 @@
 # CRYPTOCOMPARE.COM WIDGETS VUEJS
 cryptocompare widgets converted to vuejs component.
 
-###Screenshots
+##Screenshots
 ![alt text](https://github.com/sundayalexander/Cryptocompare-widgets-vuejs/blob/master/screenshots/advanced.png?raw=true)
 ![alt text](https://github.com/sundayalexander/Cryptocompare-widgets-vuejs/blob/master/screenshots/chart.png?raw=true)
 ![alt text](https://github.com/sundayalexander/Cryptocompare-widgets-vuejs/blob/master/screenshots/historical.png?raw=true)
